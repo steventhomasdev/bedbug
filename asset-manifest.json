@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bedbug/static/css/main.275a7fd5.css",
-    "main.js": "/bedbug/static/js/main.5acb0804.js",
+    "main.js": "/bedbug/static/js/main.f627cf5a.js",
     "index.html": "/bedbug/index.html",
     "main.275a7fd5.css.map": "/bedbug/static/css/main.275a7fd5.css.map",
-    "main.5acb0804.js.map": "/bedbug/static/js/main.5acb0804.js.map"
+    "main.f627cf5a.js.map": "/bedbug/static/js/main.f627cf5a.js.map"
   },
   "entrypoints": [
     "static/css/main.275a7fd5.css",
-    "static/js/main.5acb0804.js"
+    "static/js/main.f627cf5a.js"
   ]
 }

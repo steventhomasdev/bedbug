@@ -1,5 +1,6 @@
 import React from "react";
-import './introduction.css'
+import './introduction.css';
+import banner from './banner4.png'
 
 const Introduction = () => {
   return (
@@ -13,7 +14,7 @@ const Introduction = () => {
           <div class="carousel-item active">
             <img
               class="first-slide"
-              src="https://images.squarespace-cdn.com/content/v1/5b59f394f2e6b1558722427c/1537992549259-041M60KMLJLFGH647SUN/addison_bubble_test_4.png?format=2500w"
+              src={banner}
               alt="First slide"
             />
             <div class="container">

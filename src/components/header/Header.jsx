@@ -54,11 +54,11 @@ const Header = () => {
             <div className="site-logo">
               <a href="index.html" className="text-black">
                 <span className="text-primary" />
-                Brand
+                BedBugzBeGone
               </a>
             </div>
-
-            <div className="col-12">
+            <div className="col-4"></div>
+            <div className="col-8">
               <nav
                 className="site-navigation text-right ml-auto "
                 role="navigation"
@@ -75,41 +75,10 @@ const Header = () => {
                     </a>
                   </li>
 
-                  <li className="has-children">
+                  <li>
                     <a href="#about-section" className="nav-link">
                       About Us
                     </a>
-                    <ul className="dropdown arrow-top">
-                      <li>
-                        <a href="#team-section" className="nav-link">
-                          Team
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#pricing-section" className="nav-link">
-                          Pricing
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#faq-section" className="nav-link">
-                          FAQ
-                        </a>
-                      </li>
-                      <li className="has-children">
-                        <a href="#">More Links</a>
-                        <ul className="dropdown">
-                          <li>
-                            <a href="#">Menu One</a>
-                          </li>
-                          <li>
-                            <a href="#">Menu Two</a>
-                          </li>
-                          <li>
-                            <a href="#">Menu Three</a>
-                          </li>
-                        </ul>
-                      </li>
-                    </ul>
                   </li>
 
                   <li>

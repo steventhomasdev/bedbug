@@ -4,7 +4,7 @@ import "./contact.css";
 const ContactUs = () => {
   return (
     <>
-      <div id="blog" className="blog">
+      <div id="service" className="service">
         <div className="container">
           <div className="row">
             <div className="col-md-12">
@@ -20,7 +20,8 @@ const ContactUs = () => {
                 <div className="row no-gutters mb-5">
                   <div className="col-md-7">
                     <div className="contact-wrap w-100 p-md-5 p-4">
-                      <form action="https://formsubmit.co/bf040744cada83efa9f18be2ca084e08"
+                      <form
+                        action="https://formsubmit.co/bf040744cada83efa9f18be2ca084e08"
                         method="POST"
                         id="contactForm"
                         name="contactForm"

@@ -46,7 +46,7 @@ html {
 
 body {
 	color: #000000;
-	font-size: 20px;
+	font-size: 16px;
 	font-family: 'poppins', sans-serif;
 	line-height: 1.80857;
 	font-weight: normal;
@@ -1475,16 +1475,15 @@ z-index: 999;
 }
 
 .Screenshot .titlepage h2 {
-	padding: 0px 0px 6px 0px;
+padding: 0px 0px 6px 0px;
 font-size: 40px;
 font-weight: bold;
 color: #050303;
-line-height: 46px;
 margin-bottom: 0px;
 margin-bottom: 20px;
 border-bottom: #fc4311 solid 1px;
-width: 242px;
 margin: 0 auto;
+width: 50%;
 margin-bottom: 0px;
 margin-bottom: 20px;
 }
@@ -1625,7 +1624,7 @@ margin-bottom: 20px;
 	color: #fc4311;
 	line-height: 46px;
 	border-bottom: #fc4311 solid 1px;
-	width: 210px;
+	width: 250px;
 	margin: 0 auto;
 	margin-bottom: 0px;
 	margin-bottom: 20px;

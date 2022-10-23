@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bedbug/static/css/main.158b4b41.css",
-    "main.js": "/bedbug/static/js/main.9640f2ed.js",
-    "static/media/banner4.png": "/bedbug/static/media/banner4.88c85a94524c2b8cdd68.png",
-    "index.html": "/bedbug/index.html",
-    "main.158b4b41.css.map": "/bedbug/static/css/main.158b4b41.css.map",
-    "main.9640f2ed.js.map": "/bedbug/static/js/main.9640f2ed.js.map"
+    "main.css": "/static/css/main.158b4b41.css",
+    "main.js": "/static/js/main.3dcd04d8.js",
+    "static/media/banner4.png": "/static/media/banner4.88c85a94524c2b8cdd68.png",
+    "index.html": "/index.html",
+    "main.158b4b41.css.map": "/static/css/main.158b4b41.css.map",
+    "main.3dcd04d8.js.map": "/static/js/main.3dcd04d8.js.map"
   },
   "entrypoints": [
     "static/css/main.158b4b41.css",
-    "static/js/main.9640f2ed.js"
+    "static/js/main.3dcd04d8.js"
   ]
 }
